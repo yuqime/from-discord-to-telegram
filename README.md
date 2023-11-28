@@ -1,4 +1,4 @@
 # from-discord-to-telegram
 send messages from discord to telegram.
 
-[![Watch the video](assets/demonstration.mp4)]
+[![demonstration](https://youtu.be/6BXAzlSd4pw)https://youtu.be/6BXAzlSd4pw)]
