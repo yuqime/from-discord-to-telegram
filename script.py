@@ -2,7 +2,6 @@ import disnake
 import telebot
 from disnake.ext import commands
 
-print("bot activated(y4qu1m3)")
 telegram_bot_token = "your token"
 discord_bot_token = "your token"
 telegram_chat_id = "your id"
